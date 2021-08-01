@@ -9,7 +9,6 @@ var bodyParser = require('body-parser');
 var cors = require('cors');
 
 var routes = require('./routes/index');
-var eventos = require('./routes/eventos');
 var poc = require('./routes/poc');
 
 var app = express();
