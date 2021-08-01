@@ -1,0 +1,2 @@
+C:\Users\wponce\FPData\dev\CobrosCoreBackend\obj\Debug\CobrosCoreBackend.njsproj.CoreCompileInputs.cache
+C:\Users\wponce\FPData\dev\CobrosCoreBackend\bin\Microsoft.NodejsTools.WebRole.dll
